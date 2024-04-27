@@ -17,6 +17,7 @@ python3.11 -m venv venv
 - On macOS/Linux, use:
 source venv/bin/activate
 - On Windows, use:
+  ```bash
 .\venv\Scripts\activate
 4. Install Dependencies:
 Once the virtual environment is activated, install dependencies from requirements.txt:
