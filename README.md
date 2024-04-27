@@ -8,7 +8,7 @@ This repository contains a Jupyter notebook for [brief description of your proje
 ## Setup Instructions
 1. Clone the repository or download the zip file:
    ```bash
-   git clone <your-repo-url>
+   git clone alekseitrubin/mangrove
 
 2. Create a Virtual Environment:
 Navigate to the project directory and create a virtual environment using Python 3.11.1:
