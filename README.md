@@ -1,4 +1,4 @@
-# Project Name
+# Mangrove Cover Analysis and Risk Assessment
 This repository contains a Jupyter notebook for [brief description of your project]. It requires Python 3.11.1 for consistent execution.
 
 ## Prerequisites
