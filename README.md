@@ -12,13 +12,16 @@ This repository contains a Jupyter notebook for [brief description of your proje
 
 2. Create a Virtual Environment:
 Navigate to the project directory and create a virtual environment using Python 3.11.1:
-python3.11 -m venv venv
-3. Activate the Virtual Environment:
+   ```bash
+   python3.11 -m venv venv
+4. Activate the Virtual Environment:
 - On macOS/Linux, use:
-source venv/bin/activate
+   ```bash
+   source venv/bin/activate
 - On Windows, use:
-  ```bash
-.\venv\Scripts\activate
+   ```bash
+   .\venv\Scripts\activate
 4. Install Dependencies:
 Once the virtual environment is activated, install dependencies from requirements.txt:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
