@@ -1,27 +1,12 @@
 # Mangrove Cover Analysis and Risk Assessment
-This repository contains a Jupyter notebook for [brief description of your project]. It requires Python 3.11.1 for consistent execution.
+This repository contains 2 Jupyter notebooks for Mangrove Cover Analysis and Coastal Flood Risk Assessment. 
 
-## Prerequisites
-- Ensure Python 3.11.1 is installed on your system.
-- Install Git if you want to clone the repository directly.
+Please upload in data_in folder:
+- mangroves_case_study.geojson
+- gmw geotiffs for each year (gmw_2016.tiff - gmw_2020.tiff for current case)
 
-## Setup Instructions
-1. Clone the repository or download the zip file:
-   ```bash
-   git clone alekseitrubin/mangrove
+Tested on Anaconda 3.1 (Python 3.9.7)
 
-2. Create a Virtual Environment:
-Navigate to the project directory and create a virtual environment using Python 3.11.1:
-   ```bash
-   python3.11 -m venv venv
-4. Activate the Virtual Environment:
-- On macOS/Linux, use:
-   ```bash
-   source venv/bin/activate
-- On Windows, use:
-   ```bash
-   .\venv\Scripts\activate
-4. Install Dependencies:
-Once the virtual environment is activated, install dependencies from requirements.txt:
+Dependencies available from requirements.txt:
    ```bash
    pip install -r requirements.txt
